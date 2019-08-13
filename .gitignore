@@ -1,0 +1,7 @@
+# Project exclude paths
+/springboot-kafka/springboot-kafka-api/target/
+/springboot-kafka/springboot-kafka-common/target/
+/springboot-kafka/springboot-kafka-core/target/
+/springboot-kafka-example/example-api/target/
+/springboot-kafka-example/example-common/target/
+/springboot-kafka-example/example-core/target/
